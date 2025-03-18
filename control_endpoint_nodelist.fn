@@ -1,0 +1,35 @@
+filename,node,gen,meth
+-,0_0,0,N
+-,1_1,1,N
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D59_bismark.tsv,G2_1,2,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D60_bismark.tsv,G2_2,2,Y
+-,L1_G50_1,50,N
+-,L2_G50_1,50,N
+-,L4_G50_1,50,N
+-,L5_G50_1,50,N
+-,L6_G50_1,50,N
+-,L7_G50_1,50,N
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D01_bismark.tsv,L1_G51_1,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D02_bismark.tsv,L1_G51_2,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D05_bismark.tsv,L2_G51_1,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D06_bismark.tsv,L2_G51_2,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D13_bismark.tsv,L4_G51_1,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D14_bismark.tsv,L4_G51_2,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D17_bismark.tsv,L5_G51_1,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D18_bismark.tsv,L5_G51_2,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D21_bismark.tsv,L6_G51_1,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D22_bismark.tsv,L6_G51_2,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D25_bismark.tsv,L7_G51_1,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D26_bismark.tsv,L7_G51_2,51,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D03_bismark.tsv,L1_G52_1,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D04_bismark.tsv,L1_G52_2,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D07_bismark.tsv,L2_G52_1,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D08_bismark.tsv,L2_G52_2,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D15_bismark.tsv,L4_G52_1,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D16_bismark.tsv,L4_G52_2,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D19_bismark.tsv,L5_G52_1,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D20_bismark.tsv,L5_G52_2,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D23_bismark.tsv,L6_G52_1,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D24_bismark.tsv,L6_G52_2,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D27_bismark.tsv,L7_G52_1,52,Y
+C:/Users/bh471/OneDrive - University of Exeter/projects/MA/data/bismark_processed/D28_bismark.tsv,L7_G52_2,52,Y
