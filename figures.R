@@ -310,7 +310,7 @@ write.table(catSum, file=paste0(wd,"/catSum.txt"), sep = "\t", col.names = TRUE,
 #violin plots
 #uses wmpg and FPKM 
 wmpgNA <- na.omit(wmpg)
-FPKM <- read.delim(file=paste0(wd,"/FPKM.txt"), sep="\t", header = TRUE)
+FPKM <- read.delim(file=paste0(wd,"/FPKM_ancestral_mean.txt"), sep="\t", header = TRUE)
 FPKMNa <- na.omit(wmpg)
 both <- merge(wmpgNA, FPKM, by = "gene")
 colnames(both) <- c("gene","meth","exp")
